@@ -7,7 +7,7 @@
 |  2 | C 10uF X5R 16V (0805)                     | C7-C8   | 1276-1096-1-ND                |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND                 |
 |  1 | P USB C, plug, straddle 0.8mm             | J1      | WM12855-ND                    |
-|  1 | J JST XH Vertical (3w)                    | J2      | 455-B3B-XH-A-ND               |
+|  1 | J JST XH Vertical (4w)                    | J2      | 455-B4B-XH-A-ND               |
 |  1 | L Ferrite 120R@100Mhz                     | L1      | 240-2383-1-ND                 |
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND           |
 |  2 | R 2.2K 0.125W (0805)                      | R3-R4   | RMCF0805FT3K30CT-ND           |
